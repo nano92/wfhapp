@@ -36,7 +36,7 @@ public class VideosAdapter extends ArrayAdapter<Object> {
 
 }
 
-private static class Header {
+/*private static class Header {
 
     public final String name;
 
@@ -44,4 +44,4 @@ private static class Header {
         this.name = name;
     }
 
-}
+}*/

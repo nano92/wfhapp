@@ -31,10 +31,10 @@ public class TestFragment extends Fragment  {
     private void setList(){
 
 
-        mArrayAdapter = new ArrayAdapter(this,android.R.layout.simple_list_item_1,);
+      //  mArrayAdapter = new ArrayAdapter(this,android.R.layout.simple_list_item_1,);
 
        // mainListView.setOnItemClickListener();
-        mainListView.setAdapter(mArrayAdapter);
+       // mainListView.setAdapter(mArrayAdapter);
     }
 
 
